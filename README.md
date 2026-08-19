@@ -2,7 +2,7 @@
 A Telegram bot that downloads videos from supported platform, lets users choose quality,
 reports download progress, and stores download history using SQLite
 ## Demo
-[▶️ Watch Demo](media/demo.mp4)
+[▶️ Watch Demo](media/demo.gif)
 - `/start` command
 - `/help` command
 - Send URL
