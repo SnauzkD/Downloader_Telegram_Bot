@@ -29,14 +29,14 @@ reports download progress, and stores download history using SQLite
 - Automatic cleanup of temporary download folders
 
 ## Technologies
-Python
-python-telegram-bot
-yt-dlp
-FFmpeg
-SQLite
-asyncio
-dataclasses
-python-dotenv
+Python  
+python-telegram-bot  
+yt-dlp  
+FFmpeg  
+SQLite  
+asyncio  
+dataclasses  
+python-dotenv  
 
 yt-dlp -> downloading video and extracting video information
 asyncio -> keep Telegram bot responsive while blocking downloads run
