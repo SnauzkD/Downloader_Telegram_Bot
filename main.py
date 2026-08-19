@@ -26,7 +26,7 @@ from cleanup import CleanUp
 from database import DataBase
 
 # global variables
-download_semaphore = asyncio.Semaphore(1)
+download_semaphore = asyncio.Semaphore(2)
 error_handler = ErrorHandler()
 utils = BotUtils()
 request_manager = RequestManager()
